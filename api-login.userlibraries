@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-logging-1.3.5.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.5/a3fcc5d3c29b2b03433aa2d2f2d2c1b1638924a1/commons-logging-1.3.5.jar" />
+  </library>
+  <library name="jackson-databind-3.1.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-databind/3.1.0/59a342020cc4f5a49335c16820be6ed8ca8ee6c7/jackson-databind-3.1.0.jar" />
+  </library>
+  <library name="jsr305-3.0.2.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+  </library>
+  <library name="kotlin-util-klib-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib/2.2.21/aa33b85baf74644feb9c5e12ac10b08f417359a/kotlin-util-klib-2.2.21.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-annotations-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/2.2.21/c2a1aa72583f6fd07ca8a2909944c319f3df0c6d/kotlin-gradle-plugin-annotations-2.2.21.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-idea-proto-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto/2.2.21/542ed2b7cd517e84ce752173fa0c23737b1557de/kotlin-gradle-plugin-idea-proto-2.2.21.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-2.2.21-gradle813.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/2.2.21/c4379902f2048e2421f9df070f2f93e154233576/kotlin-gradle-plugin-2.2.21-gradle813.jar" />
+  </library>
+  <library name="abi-tools-api-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/abi-tools-api/2.2.21/ed18ed85fcfa6c8ae4638feb3ebe706c5d3161af/abi-tools-api-2.2.21.jar" />
+  </library>
+  <library name="kotlin-noarg-2.2.21-gradle813.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-noarg/2.2.21/cfa7e62bad9d0c23d02fd4f2a1994969d517b518/kotlin-noarg-2.2.21-gradle813.jar" />
+  </library>
+  <library name="kotlin-util-klib-metadata-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib-metadata/2.2.21/5d2acad8f6ba832aa30cf50abb4f25bbe00ace34/kotlin-util-klib-metadata-2.2.21.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-model-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/2.2.21/795270eb139937a85d8c1167631fdc6dffcc4403/kotlin-gradle-plugin-model-2.2.21.jar" />
+  </library>
+  <library name="kotlin-util-io-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/2.2.21/fa383bc0398a3b345940b428d53b5e0010ca07e3/kotlin-util-io-2.2.21.jar" />
+  </library>
+  <library name="antlr4-runtime-4.7.2.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.7.2/e27d8ab4f984f9d186f54da984a6ab1cccac755e/antlr4-runtime-4.7.2.jar" />
+  </library>
+  <library name="jspecify-1.0.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar" />
+  </library>
+  <library name="httpcore5-5.3.6.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.3.6/2c7f0d11747f9485a02c9f622c0f0477d7ce8677/httpcore5-5.3.6.jar" />
+  </library>
+  <library name="jna-5.17.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.17.0/33d12735bef894440780fce64f9758d420c7bae2/jna-5.17.0.jar" />
+  </library>
+  <library name="kotlinx-coroutines-core-jvm-1.8.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.8.0/ac1dc37a30a93150b704022f8d895ee1bd3a36b3/kotlinx-coroutines-core-jvm-1.8.0.jar" />
+  </library>
+  <library name="httpclient5-5.5.2.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.5.2/779933c00befc33a2e96b6556fb1a7536f1adf8f/httpclient5-5.5.2.jar" />
+  </library>
+  <library name="commons-compress-1.27.1.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.27.1/a19151084758e2fbb6b41eddaa88e7b8ff4e6599/commons-compress-1.27.1.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-api-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/2.2.21/e453118ef8a34b7b1eefd405ae205bd6ff7fc4e1/kotlin-gradle-plugin-api-2.2.21.jar" />
+  </library>
+  <library name="spring-boot-buildpack-platform-4.0.4.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-buildpack-platform/4.0.4/cf721a321b91edaf5ffb23ac50346de6e5c54bc7/spring-boot-buildpack-platform-4.0.4.jar" />
+  </library>
+  <library name="kotlin-klib-commonizer-api-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-klib-commonizer-api/2.2.21/ca8988005f26eb8951954c9cb00c7e36a352d3c/kotlin-klib-commonizer-api-2.2.21.jar" />
+  </library>
+  <library name="kotlin-build-tools-api-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-tools-api/2.2.21/16540f022aee144fa1f8311b2386def70c617e6e/kotlin-build-tools-api-2.2.21.jar" />
+  </library>
+  <library name="dd55187ca4d59e07507fe803c86fa910/classes">
+    <archive path="C:/Users/sl103/.gradle/caches/9.4.0/kotlin-dsl/accessors/dd55187ca4d59e07507fe803c86fa910/classes" />
+  </library>
+  <library name="commons-io-2.16.1.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.16.1/377d592e740dc77124e0901291dbfaa6810a200e/commons-io-2.16.1.jar" />
+  </library>
+  <library name="error_prone_annotations-2.27.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.27.0/91b2c29d8a6148b5e2e4930f070d4840e2e48e34/error_prone_annotations-2.27.0.jar" />
+  </library>
+  <library name="slf4j-api-1.7.36.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.36/6c62681a2f655b49963a5983b8b0950a6120ae14/slf4j-api-1.7.36.jar" />
+  </library>
+  <library name="tomlj-1.0.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.tomlj/tomlj/1.0.0/d1922fb5e672e04d8e8d8dac0b058b1897e6e940/tomlj-1.0.0.jar" />
+  </library>
+  <library name="kotlin-allopen-2.2.21-gradle813.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-allopen/2.2.21/8e109170e2dfe75489d3014be31ece305855f7ae/kotlin-allopen-2.2.21-gradle813.jar" />
+  </library>
+  <library name="kotlin-daemon-client-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/2.2.21/2efb121461157be31b601c740f6fa15cbf17c9bf/kotlin-daemon-client-2.2.21.jar" />
+  </library>
+  <library name="kotlin-compiler-runner-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/2.2.21/3a0b430d2baccb16ec38b54f7c9ff190790374bf/kotlin-compiler-runner-2.2.21.jar" />
+  </library>
+  <library name="dependency-management-plugin-1.1.7.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.1.7/6afc1b5cbc631be173fe497b528d8154479e9371/dependency-management-plugin-1.1.7.jar" />
+  </library>
+  <library name="spring-boot-gradle-plugin-4.0.4.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/4.0.4/3aacbb64d820801a716ea45c20fb0ace127cc3da/spring-boot-gradle-plugin-4.0.4.jar" />
+  </library>
+  <library name="spring-core-7.0.6.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.6/5e4e7fd5bee4be66a0786abe0c90419a713114b5/spring-core-7.0.6.jar" />
+  </library>
+  <library name="kotlin-tooling-core-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-tooling-core/2.2.21/685151c03e638207a3b5045002411fbef78fdeb/kotlin-tooling-core-2.2.21.jar" />
+  </library>
+  <library name="jackson-core-3.1.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-core/3.1.0/df0dc5d0bf720739ae7b6afeee2af2aabf88905b/jackson-core-3.1.0.jar" />
+  </library>
+  <library name="commons-lang3-3.16.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.16.0/3eb54effe40946dfb06dc5cd6c7ce4116cd51ea4/commons-lang3-3.16.0.jar" />
+  </library>
+  <library name="jackson-annotations-2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.21/b1bc1868bf02dc0bd6c7836257a036a331005309/jackson-annotations-2.21.jar" />
+  </library>
+  <library name="commons-codec-1.17.1.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.17.1/973638b7149d333563584137ebf13a691bb60579/commons-codec-1.17.1.jar" />
+  </library>
+  <library name="gson-2.11.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.11.0/527175ca6d81050b53bdd4c457a6d6e017626b0e/gson-2.11.0.jar" />
+  </library>
+  <library name="c3a3d262296326c599848317f604592e-PS/classes">
+    <archive path="C:/Users/sl103/.gradle/caches/9.4.0/kotlin-dsl/accessors/c3a3d262296326c599848317f604592e-PS/classes" />
+  </library>
+  <library name="fus-statistics-gradle-plugin-2.2.21-gradle813.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/fus-statistics-gradle-plugin/2.2.21/367f2b642ad1820d4c0daa8b620000acaf49fd93/fus-statistics-gradle-plugin-2.2.21-gradle813.jar" />
+  </library>
+  <library name="kotlin-build-statistics-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-statistics/2.2.21/ca0b6cd0a27a0b2442b37a6516fb223d50c4bf4a/kotlin-build-statistics-2.2.21.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-api-2.2.21-gradle813.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/2.2.21/e453118ef8a34b7b1eefd405ae205bd6ff7fc4e1/kotlin-gradle-plugin-api-2.2.21-gradle813.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-idea-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea/2.2.21/a07b350797aa4fe6d4bc6e1be2feecb638e94b13/kotlin-gradle-plugin-idea-2.2.21.jar" />
+  </library>
+  <library name="kotlin-native-utils-2.2.21.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/2.2.21/4fe18e8ccd3bc5e8f7cafbdfb3ec8eb54882b8a/kotlin-native-utils-2.2.21.jar" />
+  </library>
+  <library name="spring-boot-loader-tools-4.0.4.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/4.0.4/b6fdaee2bbca7e040b21c72f1cb7e72ce1ca347a/spring-boot-loader-tools-4.0.4.jar" />
+  </library>
+  <library name="jna-platform-5.17.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.17.0/a4934c44d25a9d8c2ddf4203affd20330cb3426f/jna-platform-5.17.0.jar" />
+  </library>
+  <library name="httpcore5-h2-5.3.6.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.3.6/5b4b321d0001aac957f5db293e3cbc4099fc15b8/httpcore5-h2-5.3.6.jar" />
+  </library>
+  <library name="kotlin-stdlib dependencies">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/kotlin-stdlib-2.3.0.jar" />
+  </library>
+  <library name="groovy-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-4.0.29.jar" />
+  </library>
+  <library name="groovy-astbuilder-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-astbuilder-4.0.29.jar" />
+  </library>
+  <library name="groovy-json-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-json-4.0.29.jar" />
+  </library>
+  <library name="groovy-templates-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-templates-4.0.29.jar" />
+  </library>
+  <library name="gradle-kotlin-dsl-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-kotlin-dsl-9.4.0.jar" />
+  </library>
+  <library name="gradle-base-services-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-base-services-9.4.0.jar" />
+  </library>
+  <library name="gradle-installation-beacon-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-installation-beacon-9.4.0.jar" />
+  </library>
+  <library name="gradle-core-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-core-9.4.0.jar" />
+  </library>
+  <library name="gradle-kotlin-dsl-extensions-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-kotlin-dsl-extensions-9.4.0.jar" />
+  </library>
+  <library name="gradle-base-services-groovy-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-base-services-groovy-9.4.0.jar" />
+  </library>
+  <library name="groovy-nio-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-nio-4.0.29.jar" />
+  </library>
+  <library name="groovy-ant-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-ant-4.0.29.jar" />
+  </library>
+  <library name="gradle-api-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/caches/9.4.0/generated-gradle-jars/gradle-api-9.4.0.jar" />
+  </library>
+  <library name="groovy-datetime-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-datetime-4.0.29.jar" />
+  </library>
+  <library name="groovy-groovydoc-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-groovydoc-4.0.29.jar" />
+  </library>
+  <library name="kotlin-reflect-2.3.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/kotlin-reflect-2.3.0.jar" />
+  </library>
+  <library name="gradle-kotlin-dsl-shared-runtime-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-kotlin-dsl-shared-runtime-9.4.0.jar" />
+  </library>
+  <library name="groovy-xml-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-xml-4.0.29.jar" />
+  </library>
+  <library name="gradle-core-api-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-core-api-9.4.0.jar" />
+  </library>
+  <library name="gradle-core-kotlin-extensions-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-core-kotlin-extensions-9.4.0.jar" />
+  </library>
+  <library name="gradle-kotlin-dsl-tooling-models-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-kotlin-dsl-tooling-models-9.4.0.jar" />
+  </library>
+  <library name="gradle-core-flow-services-api-9.4.0.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/gradle-core-flow-services-api-9.4.0.jar" />
+  </library>
+  <library name="javaparser-core-3.27.1.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/javaparser-core-3.27.1.jar" />
+  </library>
+  <library name="groovy-dateutil-4.0.29.jar">
+    <archive path="C:/Users/sl103/.gradle/wrapper/dists/gradle-9.4.0-bin/lcvyxq3t37f6mx9miaydrrgs/gradle-9.4.0/lib/groovy-dateutil-4.0.29.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-webmvc:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webmvc/4.0.4/44ffb609c6df8bcc9935747a45b040e3045bd828/spring-boot-starter-webmvc-4.0.4.jar" />
+  </library>
+  <library name="Gradle: tools.jackson.module:jackson-module-kotlin:3.1.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/tools.jackson.module/jackson-module-kotlin/3.1.0/8f8129e6f0c57b2bea1e6a00e587f0e3e9919e69/jackson-module-kotlin-3.1.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-reflect:2.2.21">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/2.2.21/17bc47f5dfe27c2351538e711f0afe377b0de6b2/kotlin-reflect-2.2.21.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.2.21">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.2.21/fa374a986e128314c3db00a20aae55f72a258511/kotlin-stdlib-2.2.21.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-h2console:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-h2console/4.0.4/c910757808336fed85aec726030ed566c7b67e4f/spring-boot-h2console-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/4.0.4/614297562d8039d22315f1befadcd3f639778d55/spring-boot-starter-data-jpa-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-jackson:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jackson/4.0.4/74d1f55989d0c05ff95c1bc480edfe37a4696e21/spring-boot-starter-jackson-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-http-converter:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-converter/4.0.4/b0fe5e9557d523a9b01661f26e51f3483d2dbab7/spring-boot-http-converter-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/4.0.4/471602eff59c467264087bbc4b93b8d328cc6751/spring-boot-starter-tomcat-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/4.0.4/f7b99b243159a2808d74d7d8c6ded4d0b127e756/spring-boot-starter-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-webmvc:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc/4.0.4/aef89d26a40b684a38ad50765d0a2d33527f5c36/spring-boot-webmvc-4.0.4.jar" />
+  </library>
+  <library name="Gradle: tools.jackson.core:jackson-databind:3.1.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-databind/3.1.0/59a342020cc4f5a49335c16820be6ed8ca8ee6c7/jackson-databind-3.1.0.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.21">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.21/b1bc1868bf02dc0bd6c7836257a036a331005309/jackson-annotations-2.21.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains:annotations:13.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/4.0.4/93d6e7c5b747d640bbad17971c5ce957bee88c5f/spring-boot-4.0.4.jar" />
+  </library>
+  <library name="Gradle: jakarta.servlet:jakarta.servlet-api:6.1.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/jakarta.servlet/jakarta.servlet-api/6.1.0/1169a246913fe3823782af7943e7a103634867c5/jakarta.servlet-api-6.1.0.jar" />
+  </library>
+  <library name="Gradle: com.h2database:h2:2.4.240">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.h2database/h2/2.4.240/686180ad33981ad943fdc0ab381e619b2c2fdfe5/h2-2.4.240.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-jdbc:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/4.0.4/34596b1168b6785aa14c5e0ba833c21be8d500da/spring-boot-starter-jdbc-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-data-jpa:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-data-jpa/4.0.4/78bc97c8ea6e016563a4d256b60228fe86e0a1c9/spring-boot-data-jpa-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-jdbc:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-jdbc/4.0.4/ef4f9793f5092a35a93f6f9fc57490d649c73566/spring-boot-jdbc-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-jackson:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-jackson/4.0.4/1abf88019e0ef8fb477367e90ff9f158213406e5/spring-boot-jackson-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-web:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/7.0.6/2baeb353efd42374239cc45e8d02780d6c6e7a77/spring-web-7.0.6.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-tomcat-runtime:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat-runtime/4.0.4/b5aa536a6f89b70b602c89d9a53cf4b31bb53970/spring-boot-starter-tomcat-runtime-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-tomcat:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-tomcat/4.0.4/18fd1c4577b141b6461e701472415e7bd6f29491/spring-boot-tomcat-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-autoconfigure:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/4.0.4/e7d484851da96008f341cab0336ff7b923ba25ae/spring-boot-autoconfigure-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-logging:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/4.0.4/460cfc1de67d918bfcaf03feb3cb526768139d02/spring-boot-starter-logging-4.0.4.jar" />
+  </library>
+  <library name="Gradle: jakarta.annotation:jakarta.annotation-api:3.0.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/3.0.0/54f928fadec906a99d558536756d171917b9d936/jakarta.annotation-api-3.0.0.jar" />
+  </library>
+  <library name="Gradle: org.yaml:snakeyaml:2.5">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/2.5/2d53ddec134280cb384c1e35d094e5f71c1f2316/snakeyaml-2.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-servlet:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-servlet/4.0.4/9fab7c94af0db89061e6482a5883bed6d35ec9b5/spring-boot-servlet-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-webmvc:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/7.0.6/da516a887d0fea326c16b07fb2519f7f112f8eda/spring-webmvc-7.0.6.jar" />
+  </library>
+  <library name="Gradle: tools.jackson.core:jackson-core:3.1.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-core/3.1.0/df0dc5d0bf720739ae7b6afeee2af2aabf88905b/jackson-core-3.1.0.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-context:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/7.0.6/e722fa5455c1be437de1947d570506cb2bb142e9/spring-context-7.0.6.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-core:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.6/5e4e7fd5bee4be66a0786abe0c90419a713114b5/spring-core-7.0.6.jar" />
+  </library>
+  <library name="Gradle: com.zaxxer:HikariCP:7.0.2">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/7.0.2/c2b43c946b86a14a96342379e22b004c56c6166d/HikariCP-7.0.2.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-hibernate:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-hibernate/4.0.4/a3bf763533bffd10120a1fc00d89ad9e2c540e58/spring-boot-hibernate-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-data-commons:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-data-commons/4.0.4/96c48d5d261075650c7db157e42fb3939253b2c/spring-boot-data-commons-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.data:spring-data-jpa:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/4.0.4/4421c139d505613ee2bb4cee1f8d51c219e36380/spring-data-jpa-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-aspects:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/7.0.6/5a89bac97d1aa057aa9bafc1cd1c76b1329dc0cc/spring-aspects-7.0.6.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-sql:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-sql/4.0.4/a6d39a7f03da9bf2e284160eecc674b2612e1372/spring-boot-sql-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-transaction:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-transaction/4.0.4/a0853ee97080347ff3e7ec73a34ba4a715ca2078/spring-boot-transaction-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-jdbc:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/7.0.6/5640a8dd396b13e5ecc7ad222c0788eb0214a743/spring-jdbc-7.0.6.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-beans:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/7.0.6/e8433956653fd38cf0b1d8769484ca8411123713/spring-beans-7.0.6.jar" />
+  </library>
+  <library name="Gradle: io.micrometer:micrometer-observation:1.16.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.16.4/64b57332a68b75ba36d9bf9b4cfd62610d0fb158/micrometer-observation-1.16.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-web-server:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-web-server/4.0.4/fa5a9f0f4625491552aaf91dcefe5e1cb590d954/spring-boot-web-server-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:11.0.18">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.18/7b0009018394a033e922e8e956d4947dce1ffd07/tomcat-embed-websocket-11.0.18.jar" />
+  </library>
+  <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:11.0.18">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/11.0.18/a96bb1b8a21ee7e93ce01cce7fd63f8e7561ec92/tomcat-embed-core-11.0.18.jar" />
+  </library>
+  <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:11.0.18">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/11.0.18/44a04ab91a1e046f436c1746d5a93d1fff57982f/tomcat-embed-el-11.0.18.jar" />
+  </library>
+  <library name="Gradle: org.apache.logging.log4j:log4j-to-slf4j:2.25.3">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.25.3/30adfb40cca243ec88cf7ec1fddb411ab55faa4f/log4j-to-slf4j-2.25.3.jar" />
+  </library>
+  <library name="Gradle: ch.qos.logback:logback-classic:1.5.32">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.5.32/2b1042c50f508f2eb402bd4d22ccbdf94cc37d2e/logback-classic-1.5.32.jar" />
+  </library>
+  <library name="Gradle: org.slf4j:jul-to-slf4j:2.0.17">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.17/524cb6ccc2b68a57604750e1ab8b13b5a786a6aa/jul-to-slf4j-2.0.17.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-aop:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/7.0.6/1b8358db4326013f8cfcbf22061aa076489dfbbe/spring-aop-7.0.6.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-expression:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/7.0.6/c00c73c545c81e2eae224a46a7c509fca74a2860/spring-expression-7.0.6.jar" />
+  </library>
+  <library name="Gradle: commons-logging:commons-logging:1.3.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.6/63e78ca6cd446c0ad166d14f03ed99e7efb3896d/commons-logging-1.3.6.jar" />
+  </library>
+  <library name="Gradle: org.jspecify:jspecify:1.0.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar" />
+  </library>
+  <library name="Gradle: org.slf4j:slf4j-api:2.0.17">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d9e58ac9c7779ba3bf8142aff6c830617a7fe60f/slf4j-api-2.0.17.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-jpa:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-jpa/4.0.4/1ceaf7a5970dab8a60fdef804733a8c22d2a6373/spring-boot-jpa-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-orm:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/7.0.6/719bd92fe383fcc5b084675667da870ff8dabeca/spring-orm-7.0.6.jar" />
+  </library>
+  <library name="Gradle: org.hibernate.orm:hibernate-core:7.2.7.Final">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.hibernate.orm/hibernate-core/7.2.7.Final/2d4b2af4c6b3b1723f2832ebca83bd154662cefd/hibernate-core-7.2.7.Final.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-persistence:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-persistence/4.0.4/dad491a174cb0a6b411ecc1330c5f13b050754f8/spring-boot-persistence-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.data:spring-data-commons:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/4.0.4/7770d18057ad59f7af71584c45583f303d17a6f0/spring-data-commons-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-tx:7.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/7.0.6/94e443fe301137d8fec6f8092e10ed62bd6432b3/spring-tx-7.0.6.jar" />
+  </library>
+  <library name="Gradle: org.antlr:antlr4-runtime:4.13.2">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.13.2/fc3db6d844df652a3d5db31c87fa12757f13691d/antlr4-runtime-4.13.2.jar" />
+  </library>
+  <library name="Gradle: org.aspectj:aspectjweaver:1.9.25.1">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.25.1/a713c790da4d794c7dfb542b550d4e44898d5e23/aspectjweaver-1.9.25.1.jar" />
+  </library>
+  <library name="Gradle: io.micrometer:micrometer-commons:1.16.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-commons/1.16.4/b6a0e350a714f4cd973d760e68104c9602b4564c/micrometer-commons-1.16.4.jar" />
+  </library>
+  <library name="Gradle: org.apache.logging.log4j:log4j-api:2.25.3">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.25.3/fb385330d89c2d61058ef649403f214633569205/log4j-api-2.25.3.jar" />
+  </library>
+  <library name="Gradle: biz.aQute.bnd:biz.aQute.bnd.annotation:7.1.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bnd.annotation/7.1.0/2f2be18c936d08cf46ea6cfa0043f34afdf38705/biz.aQute.bnd.annotation-7.1.0.jar" />
+  </library>
+  <library name="Gradle: com.google.errorprone:error_prone_annotations:2.38.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.38.0/fc0ae991433e8590ba51cd558421478318a74c8c/error_prone_annotations-2.38.0.jar" />
+  </library>
+  <library name="Gradle: org.osgi:org.osgi.annotation.bundle:2.0.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.annotation.bundle/2.0.0/f5c2cd6e670c3c5d440d3003efd5ef2ead5c68eb/org.osgi.annotation.bundle-2.0.0.jar" />
+  </library>
+  <library name="Gradle: org.osgi:org.osgi.annotation.versioning:1.1.2">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.annotation.versioning/1.1.2/dc3cd4ec96c0b3c5459fe00694bd73a816ecf93e/org.osgi.annotation.versioning-1.1.2.jar" />
+  </library>
+  <library name="Gradle: ch.qos.logback:logback-core:1.5.32">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.5.32/fdfb3ff9a842303d4a95207294a6c6bc64e2605d/logback-core-1.5.32.jar" />
+  </library>
+  <library name="Gradle: jakarta.persistence:jakarta.persistence-api:3.2.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/jakarta.persistence/jakarta.persistence-api/3.2.0/bb75a113f3fa191c2c7ee7b206d8e674251b3129/jakarta.persistence-api-3.2.0.jar" />
+  </library>
+  <library name="Gradle: jakarta.transaction:jakarta.transaction-api:2.0.1">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/jakarta.transaction/jakarta.transaction-api/2.0.1/51a520e3fae406abb84e2e1148e6746ce3f80a1a/jakarta.transaction-api-2.0.1.jar" />
+  </library>
+  <library name="Gradle: org.osgi:org.osgi.resource:1.0.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.resource/1.0.0/343c88949132984b3f2d4175a72c40b77dc65619/org.osgi.resource-1.0.0.jar" />
+  </library>
+  <library name="Gradle: org.osgi:org.osgi.service.serviceloader:1.0.0">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.serviceloader/1.0.0/3728ff37909c6a3c1870b3e851342d9f2bd3cc63/org.osgi.service.serviceloader-1.0.0.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-devtools:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-devtools/4.0.4/d2df01f25c5f0d4f816e8ea5da41248cbe10142a/spring-boot-devtools-4.0.4.jar" />
+  </library>
+  <library name="Gradle: org.hibernate.models:hibernate-models:1.0.1">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.hibernate.models/hibernate-models/1.0.1/3158c5f9309494b905de62c72f6f02d108aea651/hibernate-models-1.0.1.jar" />
+  </library>
+  <library name="Gradle: org.jboss.logging:jboss-logging:3.6.3.Final">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.6.3.Final/1cc9f976725720bb4a66f80af3e3aa6b9890d969/jboss-logging-3.6.3.Final.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml:classmate:1.7.3">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.7.3/f61c7e7b81e9249b0f6a05914eff9d54fb09f4a0/classmate-1.7.3.jar" />
+  </library>
+  <library name="Gradle: net.bytebuddy:byte-buddy:1.17.8">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.17.8/af5735f63d00ca47a9375fae5c7471a36331c6ed/byte-buddy-1.17.8.jar" />
+  </library>
+  <library name="Gradle: org.glassfish.jaxb:jaxb-runtime:4.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/4.0.6/fb95ebb62564657b2fedfe165b859789ef3a8711/jaxb-runtime-4.0.6.jar" />
+  </library>
+  <library name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:4.0.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/4.0.4/d6d2327f3817d9a33a3b6b8f2e15a96bc2e7afdc/jakarta.xml.bind-api-4.0.4.jar" />
+  </library>
+  <library name="Gradle: jakarta.inject:jakarta.inject-api:2.0.1">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/2.0.1/4c28afe1991a941d7702fe1362c365f0a8641d1e/jakarta.inject-api-2.0.1.jar" />
+  </library>
+  <library name="Gradle: org.glassfish.jaxb:jaxb-core:4.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-core/4.0.6/8e61282303777fc98a00cc3affd0560d68748a75/jaxb-core-4.0.6.jar" />
+  </library>
+  <library name="Gradle: jakarta.activation:jakarta.activation-api:2.1.4">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/2.1.4/9e5c2a0d75dde71a0bedc4dbdbe47b78a5dc50f8/jakarta.activation-api-2.1.4.jar" />
+  </library>
+  <library name="Gradle: org.eclipse.angus:angus-activation:2.0.3">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.eclipse.angus/angus-activation/2.0.3/7f80607ea5014fef0b1779e6c33d63a88a45a563/angus-activation-2.0.3.jar" />
+  </library>
+  <library name="Gradle: org.glassfish.jaxb:txw2:4.0.6">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/txw2/4.0.6/4f4cd53b5ff9a2c5aa1211f15ed2569c57dfb044/txw2-4.0.6.jar" />
+  </library>
+  <library name="Gradle: com.sun.istack:istack-commons-runtime:4.1.2">
+    <archive path="C:/Users/sl103/.gradle/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/4.1.2/18ec117c85f3ba0ac65409136afa8e42bc74e739/istack-commons-runtime-4.1.2.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-webmvc-test:4.0.4" />
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-test-junit5:2.2.21" />
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa-test:4.0.4" />
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-jackson-test:4.0.4" />
+  <library name="Gradle: org.springframework.boot:spring-boot-resttestclient:4.0.4" />
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-test:4.0.4" />
+  <library name="Gradle: org.springframework.boot:spring-boot-webmvc-test:4.0.4" />
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-test:2.2.21" />
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-api:6.0.3" />
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-jdbc-test:4.0.4" />
+  <library name="Gradle: org.springframework.boot:spring-boot-data-jpa-test:4.0.4" />
+  <library name="Gradle: org.springframework.boot:spring-boot-test:4.0.4" />
+  <library name="Gradle: org.springframework.boot:spring-boot-test-autoconfigure:4.0.4" />
+  <library name="Gradle: org.junit.jupiter:junit-jupiter:6.0.3" />
+  <library name="Gradle: org.springframework:spring-test:7.0.6" />
+  <library name="Gradle: com.jayway.jsonpath:json-path:2.10.0" />
+  <library name="Gradle: net.minidev:json-smart:2.6.0" />
+  <library name="Gradle: org.assertj:assertj-core:3.27.7" />
+  <library name="Gradle: org.awaitility:awaitility:4.3.0" />
+  <library name="Gradle: org.hamcrest:hamcrest:3.0" />
+  <library name="Gradle: org.mockito:mockito-junit-jupiter:5.20.0" />
+  <library name="Gradle: org.mockito:mockito-core:5.20.0" />
+  <library name="Gradle: org.skyscreamer:jsonassert:1.5.3" />
+  <library name="Gradle: org.xmlunit:xmlunit-core:2.10.4" />
+  <library name="Gradle: org.junit.platform:junit-platform-commons:6.0.3" />
+  <library name="Gradle: org.opentest4j:opentest4j:1.3.0" />
+  <library name="Gradle: org.apiguardian:apiguardian-api:1.1.2" />
+  <library name="Gradle: org.springframework.boot:spring-boot-jdbc-test:4.0.4" />
+  <library name="Gradle: org.springframework.boot:spring-boot-jpa-test:4.0.4" />
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-params:6.0.3" />
+  <library name="Gradle: net.minidev:accessors-smart:2.6.0" />
+  <library name="Gradle: net.bytebuddy:byte-buddy-agent:1.17.8" />
+  <library name="Gradle: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" />
+  <library name="Gradle: org.ow2.asm:asm:9.7.1" />
+  <library name="Gradle: org.junit.platform:junit-platform-launcher:6.0.3" />
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:6.0.3" />
+  <library name="Gradle: org.junit.platform:junit-platform-engine:6.0.3" />
+  <library name="Gradle: org.objenesis:objenesis:3.3" />
+</eclipse-userlibraries>
+
